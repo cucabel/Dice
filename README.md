@@ -1,5 +1,5 @@
 # Dice
-* IT Academy backend development program | Spring Boot | Spring Data | JPA | REST API | Gradle
+* Spring Boot | Spring Data | JPA | REST API | Gradle
 
 The game is played with two dice. If the result of the two dice is 7, the game is won, otherwise, is lost.
 
